@@ -74,7 +74,7 @@ call <sid>hi('PmenuSel', s:none, s:voidGray2, 'none')
 call <sid>hi('Search', s:voidBlack, s:voidGold, 'none')
 call <sid>hi('StatusLine', s:voidBlack, s:voidSteel, 'none')
 call <sid>hi('StatusLineNC', s:voidGray3, s:voidBlack2, 'none')
-call <sid>hi('VertSplit', s:voidGray3, s:voidGray3, 'none')
+call <sid>hi('VertSplit', s:voidBlack, s:voidGray3, 'none')
 call <sid>hi('Visual', s:none, s:voidGray2, 'none')
 
 " General
