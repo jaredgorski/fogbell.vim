@@ -80,7 +80,7 @@ call <sid>hi('Visual', s:none, s:voidGray2, 'none')
 " General
 call <sid>hi('Boolean', s:voidSteel, s:none, 'none')
 call <sid>hi('Character', s:voidSteel, s:none, 'none')
-call <sid>hi('Comment', s:voidGray3, s:none, 'none')
+call <sid>hi('Comment', s:voidGray4, s:none, 'none')
 call <sid>hi('Conditional', s:voidSteel, s:none, 'none')
 call <sid>hi('Constant', s:voidSteel, s:none, 'none')
 call <sid>hi('Define', s:voidSteel, s:none, 'none')
@@ -325,7 +325,7 @@ call <sid>hi('rubyStringDelimiter', s:voidSteel, s:none, 'none')
 call <sid>hi('rubySymbol', s:voidSteel, s:none, 'none')
 
 " Ruby (Embedded)
-call <sid>hi('erubyComment', s:voidGray3, s:none, 'none')
+call <sid>hi('erubyComment', s:voidGray4, s:none, 'none')
 call <sid>hi('erubyDelimiter', s:none, s:none, 'none')
 call <sid>hi('erubyRailsMethod', s:voidSteel, s:none, 'none')
 
